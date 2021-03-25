@@ -51,7 +51,7 @@ const weatherOptions = {
         iconName: "weather-cloudy",
         gradient: ["#D7D2CC", "#304352"], 
         title: "Clouds",
-        subtitle: "I know, fuckin boring"
+        subtitle: "I know, fuckin boring..."
     },
     Mist:{
         iconName: "weather-hail",
