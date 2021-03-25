@@ -39,7 +39,7 @@ const weatherOptions = {
         iconName: "weather-hail",
         gradient: ["#89F7FE", "#66A6FF"], 
         title: "Atmosphere",
-        subtitle: "what does it mean?"
+        subtitle: "what does it mean...?"
     }, 
     Clear: {
         iconName: "weather-sunny",
